@@ -22,5 +22,5 @@ Run the app on a connected or virtual device `$ionic run android` or `$ionic run
 ## Troubleshooting
 - Check if you installed the plugin a correct way. 
 - Validate your API keys at [Google APIs](https://console.developers.google.com).
-- Be sure the HTML element where the maps get injected into has an predefined height property.
+- Be sure the HTML element where the maps get injected into has a predefined height property.
 - Be sure you run your app on a connected or virtual device.
