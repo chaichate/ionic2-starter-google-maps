@@ -1,4 +1,4 @@
-![Google Maps](https://lh3.googleusercontent.com/MOf9Kxxkj7GvyZlTZOnUzuYv0JAweEhlxJX6gslQvbvlhLK5_bSTK6duxY2xfbBsj43H=w300)
+![Google Maps](https://lh3.googleusercontent.com/MOf9Kxxkj7GvyZlTZOnUzuYv0JAweEhlxJX6gslQvbvlhLK5_bSTK6duxY2xfbBsj43H=w100)
 
 # Ionic 2 starter Google Maps
 A minimal starter for native Google Maps implementation in Ionic 2. It locates the user, zooms the map to location and add a marker.
@@ -18,3 +18,9 @@ Add the Android and iOS platform `$ionic platform add android` & `$ionic platfor
 
 ## Run
 Run the app on a connected or virtual device `$ionic run android` or `$ionic run ios`
+
+## Troubleshooting
+- Check if you installed the plugin a correct way. 
+- Validate your API keys at [Google APIs](https://console.developers.google.com).
+- Be sure the HTML element where the maps get injected into has an predefined height property.
+- Be sure you run your app on a connected or virtual device.
